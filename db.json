@@ -26,5 +26,20 @@
       {
         "type": "best of the best"
       }
+    ],
+
+    "location": [
+      {
+        "name": "Kharkov",
+        "slug": "kh"
+      },
+      {
+        "name": "Dnipro",
+        "slug": "dp"
+      },
+      {
+        "name": "Kiev",
+        "slug": "ki"
+      }
     ]
 }
