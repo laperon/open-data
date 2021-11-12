@@ -5,11 +5,14 @@
         "title": "hello"
       }
     ],
+    
     "profile": {
       "name": "typicode"
     },
-    "eugesha": {
-      "type": "best of the best"
-    }
-  }
-  
+
+    "eugesha": [
+      {
+        "type": "best of the best"
+      }
+    ]
+}
