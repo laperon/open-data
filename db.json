@@ -1,15 +1,15 @@
 {
   "locations": [
       {
-        "id": 1,
+        "id": "kiev",
         "name": "Kiev"
       },
       {
-        "id": 2,
+        "id": "kharkov",
         "name": "Kharkov"
       },
       {
-        "id": 3,
+        "id": "dnipro",
         "name": "Dnipro"
       }
     ]
