@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": [{
       "locations" : [
         {
           "userId": 1,
@@ -15,6 +14,5 @@
           "completed": false
         }
       ]
-    }
-    ]
+    }]
 }
